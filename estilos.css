@@ -1,0 +1,150 @@
+
+@font-face{
+	
+	font-family:HeyComic;
+	src:url("fuentes/HeyComic.otf");
+	
+	
+	
+}
+
+
+@font-face{
+	
+	font-family:GoboldBold;
+	src:url("fuentes/GoboldBold.otf");
+	
+	
+	
+}
+
+@font-face{
+	
+	font-family:PorshaRichela;
+	src:url("fuentes/PorshaRichela.ttf");
+	
+	
+	
+}
+
+
+body{
+	background-image: url("imagenes/fondo1.jpg");
+	
+	
+	
+}
+
+h1{
+	font-size:50px;
+	text-align:center;
+	color:white;
+	font-family:GoboldBold;
+	text-shadow:2px 2px 3px #EABE3F;
+	border-style:double;
+	margin-left:12%;
+	margin-right:12%;
+	background-color:black;
+	
+	
+	
+}
+p{
+	text-align:justify;
+	font-family:PorshaRichela;
+	color:white;
+	margin-left:15%;
+	margin-right:15%;
+	font-size:20px;
+	line-height:30px;
+}
+
+img{
+	margin:auto;
+	display:block;
+	 
+	
+}
+
+h2{
+	text-align:center;
+	color:white;
+	font-family:GoboldBold;
+	text-shadow:2px 2px 3px #EABE3F;
+	
+}
+
+ul{
+	color:white;
+	margin-left:15%;
+	font-size:20px;
+	
+}
+
+table{
+	color:#EABE3F;
+	background-color:black;
+	border-style:groove;
+	border-radius:7px;
+	
+	
+	
+}
+td{
+	border-style:groove;
+	border-width:1px;
+	border-radius:5px;
+	
+}
+
+a:link{
+	color:#EABE3F;
+	
+	
+	
+}
+a:hover{
+	background-color:red	;
+	border-style:groove;
+	
+}
+
+a:visited{
+		color:#EABE3F;
+		
+}
+
+
+.img{
+	box-shadow:3px 3px 4px #EABE3F;
+	border-radius:20px;
+	
+}
+
+
+.enlace{
+	        margin-left:50px;
+	        display: inline-block;
+            margin-right: 80px;
+	        font-size:20px;
+			font-family:HeyComic;
+}
+
+.enlace2{
+	margin-left:20px;
+	font-family:HeyComic;
+	
+}
+
+.table{
+	 
+   	 margin-left:auto;
+     margin-right:auto;
+	
+	
+}
+.img3{
+	box-shadow:3px 3px 4px #EABE3F;
+	border-radius:20px;
+	  display:inline-block;
+}
